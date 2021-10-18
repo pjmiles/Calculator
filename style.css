@@ -10,15 +10,9 @@ body {
     background: linear-gradient(to left, #00ff6e94, #00ff6efb);
 }
 
-.aside{
-    margin-left: 10rem;
-    padding: 0;
-    width: 100vh;
-}
-
 .text {
     font-size: 18px;
-    text-align: start;
+    text-align: center;
 }
 
 .calculator-grid {
